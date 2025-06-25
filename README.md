@@ -45,7 +45,7 @@ Estoy ampliando mis habilidades hacia:
 
 🎓 Formación en Estudios Ingleses, Máster en Traducción y Nuevas Tecnologías, Desarrollo de Aplicaciones Multiplataforma y Curso programación Java web.   
 📚 Apasionado por el backend, la inteligencia artificial, la filosofía del software libre y la creatividad aplicada a la programación.  
-🎮 Gamer empedernido (Cyberpunk, Kingdom Hearts, No Man’s Sky), fan del metal, el cine de terror, el anime y la cultura pop.  
+🎮 Gamer empedernido (Dead by Daylight, Cyberpunk 2077, Kingdom Hearts, No Man’s Sky, entre otros...), fan del metal, el cine de terror, el anime y la cultura pop.  
 🚀 Mi objetivo: contribuir a proyectos que marquen la diferencia y crecer hasta convertirme en un desarrollador backend de referencia.
 
 ---
